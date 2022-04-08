@@ -54,7 +54,7 @@ Value      |Description
 `AUC.st.mat`     |      a matrix containing the estimated AUC(s,t) at different biomarker mesurement time sk and time point t. 
 
 
-## Seealso
+## See also
 
 [`main1.sub.func`](#main1.sub.func) , [`logL`](#logl)
 
@@ -136,7 +136,7 @@ Value      |Description
 `theta`     |      a vector containing the estimated parameters of the polynomial function.
 `SE`     |      a matrix containing model-based standard error estimates at different biomarker mesurement time sk and time point tseq.eval.
 `conv`     |      a convergence indicator
-## Seealso
+## See also
 
 [`fp.func3`](#fp.func3) , [`logL`](#logl)
 
