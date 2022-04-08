@@ -130,7 +130,7 @@ Argument      |Description
 
 A list containing:
   
-Argument      |Description
+Value      |Description
 ------------- |----------------
 `AUC`     |      a matrix containing the estimated AUC(s,t) at different biomarker mesurement time sk and time point tseq.eval.
 `theta`     |      a vector containing the estimated parameters of the polynomial function.
